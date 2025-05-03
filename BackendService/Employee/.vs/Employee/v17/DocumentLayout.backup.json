@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InterviewTests\\EngAhmed\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|d:\\interviewtests\\engahmed\\employee\\employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|d:\\interviewtests\\engahmed\\employee\\employee\\features\\employee\\commands\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|solutionrelative:employee\\features\\employee\\commands\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|d:\\interviewtests\\engahmed\\employee\\employee\\features\\employee\\commands\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|solutionrelative:employee\\features\\employee\\commands\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|d:\\interviewtests\\engahmed\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|d:\\interviewtests\\engahmed\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D5B140D-99A5-424D-9E38-ED058A3D7FFD}|Employee\\Employee.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Features\\Employee\\Commands\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Employee\\Features\\Employee\\Commands\\Create\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Features\\Employee\\Commands\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Employee\\Features\\Employee\\Commands\\Create\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:53:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAEwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:53:52.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Features\\Employee\\Commands\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Employee\\Features\\Employee\\Commands\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Features\\Employee\\Commands\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Employee\\Features\\Employee\\Commands\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA1wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:53:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee\\appsettings.json",
+              "ToolTip": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\appsettings.json",
+              "RelativeToolTip": "Employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T16:50:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "D:\\InterviewTests\\EngAhmed\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:47:02.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
