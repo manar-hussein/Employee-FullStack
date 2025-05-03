@@ -1,0 +1,68 @@
+# Employee Management System
+
+This project consists of a backend service and an Angular frontend application.
+
+## Prerequisites
+
+- .NET Core SDK (for backend)
+- Node.js and npm (for Angular frontend)
+- Angular CLI
+
+## Running the Application
+
+### 1. Backend Service
+
+1. Navigate to the backend service directory:
+   ```
+   cd BackendService/Employee
+   ```
+
+2. Restore NuGet packages:
+   ```
+   dotnet restore
+   ```
+
+3. Build the solution:
+   ```
+   dotnet build
+   ```
+4. Navigate to the backend service directory:
+   ```
+   cd BackendService/Employee/Employee
+   ```
+5. Run the service:
+   ```
+   dotnet run
+   ```
+
+   The backend service will start and typically run on `http://localhost:5220` by default 
+
+### 2. Frontend Application
+
+1. Open a new terminal and navigate to the frontend directory:
+   ```
+   cd FrontEnd/EmployeeManagmenet
+   ```
+
+2. Install dependencies:
+   ```
+   npm install
+   ```
+
+3. Start the Angular development server:
+   ```
+   ng serve
+   ```
+
+   The frontend application will start and typically run on `http://localhost:4200`
+
+## Accessing the Application
+
+- Backend API: `http://localhost:5220
+- Frontend Application: `http://localhost:4200`
+
+## Important Notes
+
+- Make sure the backend service is running before starting the frontend application on `http://localhost:5220` and if you want to change this Profile please consider that the baseUrl In FrontEnd must Change to 
+- The frontend application is configured to communicate with the backend service
+- If you encounter any CORS issues, ensure the backend service has the correct CORS configuration
